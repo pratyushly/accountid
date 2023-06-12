@@ -1,5 +1,0 @@
----
-"accountid": minor
----
-
-Publish package
