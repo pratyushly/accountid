@@ -1,5 +1,11 @@
 # accountid
 
+## 1.1.0
+
+### Minor Changes
+
+- eaf18e6: ensure that id doesn't contain any profane word
+
 ## 1.0.0
 
 ### Major Changes
