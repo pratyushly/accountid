@@ -4,7 +4,7 @@ import containsProfaneWord from "./functions/containsProfaneWord";
  * Generate URL friendly short IDs just like YouTube
  * @returns {string} Randomly generated string of characters just like YouTube
  */
-export default function accountId(){
+export function accountId(){
   const characters = 'ABCDEFGHJKLMNOPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz0123456789-_';
   const length = 11;
   let id;
