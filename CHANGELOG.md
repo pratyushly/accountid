@@ -1,5 +1,11 @@
 # accountid
 
+## 1.1.1
+
+### Patch Changes
+
+- 1032d50: accountId is now named export
+
 ## 1.1.0
 
 ### Minor Changes
