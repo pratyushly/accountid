@@ -16,7 +16,9 @@
     "build": "tsup index.ts --format cjs,esm --dts",
     "distribute": "pnpm lint && pnpm build && changeset publish"
   },
-  "keywords": [],
+  "keywords": [
+    "ytid"
+  ],
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
     "husky": "^8.0.0",
