@@ -1,5 +1,11 @@
 # accountid
 
+## 1.2.0
+
+### Minor Changes
+
+- 5f20f71: This package has been deprecated due to rename. Please use [ytid](https://www.npmjs.com/package/ytid) instead.
+
 ## 1.1.1
 
 ### Patch Changes
