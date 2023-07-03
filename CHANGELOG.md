@@ -1,5 +1,11 @@
 # accountid
 
+## 1.2.2
+
+### Patch Changes
+
+- 4c32f50: update workflow
+
 ## 1.2.1
 
 ### Patch Changes
