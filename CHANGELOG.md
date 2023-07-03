@@ -1,5 +1,11 @@
 # accountid
 
+## 1.2.1
+
+### Patch Changes
+
+- 18b1b8a: update distribution workflow to publish on GitHub Packages
+
 ## 1.2.0
 
 ### Minor Changes
