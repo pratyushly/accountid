@@ -1,5 +1,11 @@
 # accountid
 
+## 1.2.3
+
+### Patch Changes
+
+- 8e7e3b8: set registry flag manually
+
 ## 1.2.2
 
 ### Patch Changes
