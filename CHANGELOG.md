@@ -1,5 +1,11 @@
 # accountid
 
+## 1.2.4
+
+### Patch Changes
+
+- a1c390c: another try
+
 ## 1.2.3
 
 ### Patch Changes
